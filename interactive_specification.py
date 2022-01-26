@@ -9,7 +9,6 @@ Original file is located at
 ## class TwoNotTouch
 """
 
-! pip install z3-solver
 from z3 import *
 import matplotlib.pyplot as plt
 from collections import Counter
