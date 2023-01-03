@@ -228,7 +228,7 @@ class PlayTwoNotTouch:
     def launch(self):
         print('Choose difficulty level:')
         display(self.game.DIFFICULTY)
-        print('Click the button below for a new puzzle (this maytake quite a few seconds).')
+        print('Click the button below for a new puzzle (this may take quite a few seconds).')
         display(self.game.RESET)
         display(self.game.BOARD)
         print('Click on the button below when done:')
